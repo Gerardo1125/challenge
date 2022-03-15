@@ -1,0 +1,23 @@
+.dash-view {
+    margin: 40px;
+    flex: 5 5 calc(100vw - 300px);
+    color: white;
+}
+.view-heading {
+    font-size: 2em;
+    font-weight: 600;
+}
+.card-heading {
+	font-weight: 500;
+	font-size: 1.1em;
+	
+}
+.card-subtitle {
+	font-size: 0.955em;
+}
+#stats-container {
+	margin-top: 20px;
+	display: flex;
+	justify-content: space-around;
+	text-align: center;
+}

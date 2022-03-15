@@ -1,0 +1,11 @@
+.sidebar-menu {
+    text-align: center;
+    align-items: center;
+    background: #2d2f33;
+    margin: 20px;
+    border-radius: 20px;
+    width: 15%;
+    padding-right: 5px;
+    min-width: min-content;
+    
+}

@@ -1,0 +1,38 @@
+.profile{
+    
+    min-height: 100vh;
+    margin: 0 auto;
+    z-index: 1;
+    background: url(../../assets/images/Stars.svg) bottom left no-repeat;
+    opacity: 1;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+}
+
+.image {
+    width: 60%;
+    height: 90%;
+    bottom: 0;
+    position: absolute;
+    background: url(../../assets/images/Silhouette.svg) bottom left no-repeat;
+}
+
+.moon{
+    width: 30%;
+    height: 30%;
+    right: 0%;
+    position: absolute;
+    background: url(../../assets/images/Moon.svg) bottom left no-repeat;
+}
+
+.textStyle{
+    font-size: 4rem;
+    font-weight: normal;
+    font-style: italic;
+    color: #fafafa;
+    line-height: 3rem;
+    position: absolute;
+    top: 30%;
+    right: 20%;
+}

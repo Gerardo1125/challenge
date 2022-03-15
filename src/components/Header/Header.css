@@ -1,0 +1,10 @@
+#profile-pic {
+    margin-top: 30px;
+    width: 5em;
+    border: none;
+    border-radius: 50%;
+    transition: all 0.3s;
+  }
+  #profile-pic:hover {
+    box-shadow: 1px 3px 12px 0px rgba(0, 0, 0, 0.45);
+  }
